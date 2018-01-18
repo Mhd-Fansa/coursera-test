@@ -1,0 +1,20 @@
+body {
+  padding-top: 3.5rem;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.body-container {
+  background-color: #FFFFFF;
+  margin: 5% 15% 15% 15%;
+  border: solid 2px #000000;
+  border-radius: 15px;
+}
+
+.listCategories,
+.listItems {
+  padding: 2% 2% 0% 2%;
+}
